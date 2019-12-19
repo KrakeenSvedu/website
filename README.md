@@ -1,6 +1,6 @@
 # Source for the GMT website
 
-[![TravisCI status](http://img.shields.io/travis/GenericMappingTools/website.svg?style=flat)](https://travis-ci.org/GenericMappingTools/website)
+[![TravisCI status (https://travis-ci.org/GenericMappingTools/website)
 
 This repository contains the sphinx source files for building the GMT website.
 
